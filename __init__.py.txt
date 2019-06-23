@@ -1,0 +1,3 @@
+from netmiko.ericsson.ericsson_ssh import EricssonSSH
+
+__all__ = ["EricssonSSH"]
