@@ -1,0 +1,7 @@
+# Normal Steps to connect to Ericsson Equipment using SSH protocol e.g. using Putty client
+Open Putty
+Put IP address or Hostname, select port 22
+Accept the public key
+Put Username and Password
+After putting Username and Password, you will enter user mode with > prompt
+To go into enable mode, write "enable" and put the Password, then you will be in Privileged mode
